@@ -39,7 +39,7 @@
     php artisan migrate --seed
     ```
 
-5. **(Optional) Install Laravel Breeze/Jetstream for authentication:**
+5. **Install Laravel Breeze/Jetstream for authentication:**
 
     ```bash
     composer require laravel/breeze --dev
